@@ -2,6 +2,7 @@
 
 Proyek ini adalah **modul pembelajaran IoT** berbasis **ESP32** yang dirancang untuk pemula.  
 Dengan modul ini, pengguna dapat mencoba berbagai sensor dan aktuator hanya dengan "colok jumper", serta memahami alur dasar sistem **Internet of Things (IoT)** menggunakan **protokol MQTT**.  
+![Modul Pembelajaran IoT](https://github.com/DiqtaPutraAditya/IoT_Modul_PembelajaranESP32/blob/main/docs/Screenshot%202025-09-19%20142125.png)
 
 ## ✨ Fitur Utama
 - ESP32 sebagai mikrokontroler utama
