@@ -18,11 +18,15 @@ Dengan modul ini, pengguna dapat mencoba berbagai sensor dan aktuator hanya deng
 
 ## 📂 Struktur Project
     IoT_Modul_PembelajaranESP32/
-    │── src/ # Source code ESP32
-    │ ├── blink_mqtt.ino
-    │ ├── ultrasonic_mqtt.ino
-    │ ├── lcd_mqtt.ino
-    │ └── ...
+    
+    │─── firmware/ # Source code ESP32
+    │  ├── example/ # Source code ESP32
+    │    ├── blink_mqtt.ino
+    │    ├── ultrasonic_mqtt.ino
+    │    ├── lcd_mqtt.ino
+    │    └── ...
+    │  └── main_project
+    │    └── allsensor_mqtt.ino
     │── docs/ # Dokumentasi modul
     │ ├── tutorial.md
     │ └── flowchart.png
