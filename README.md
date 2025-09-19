@@ -55,7 +55,7 @@ Dengan modul ini, pengguna dapat mencoba berbagai sensor dan aktuator hanya deng
 4. Client dapat mengirim perintah balik (misalnya menyalakan LED, menampilkan teks ke LCD, atau mengontrol motor).
 5. ESP32 menerima perintah dan mengeksekusinya pada aktuator.
 
-![Flowchart IoT ESP32](docs/flowchart.png)
+![Flowchart IoT ESP32](https://github.com/DiqtaPutraAditya/IoT_Modul_PembelajaranESP32/blob/main/docs/iot_esp32_mqtt_flowchart.png)
 
 ## 📡 Contoh Format Data (JSON)
 ```bash
